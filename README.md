@@ -1,5 +1,6 @@
 # Data driven prediction of air fare
 
+**Link to notebook** https://github.com/guptakamit040880/M20_Capstone/blob/0854d1458c2b68357edaa6b20b574d3490d4b238/airFare.ipynb
 ## Problem Statement
 
 Finding the best airfare has been desired by everyone but not always available to all. In this project we will try to predict the best airfare based on historical data.
