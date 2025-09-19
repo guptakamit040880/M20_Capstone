@@ -14,9 +14,10 @@ To understand the pattern of air fare, we have a dataset derived from publicly a
 Understand the relationship between various features and average airfare. Build and evaluate multiple regression models to predict the best average airfare. Provide actionable insights based on model findings.
 
 ## Distribution of Average_Fare Variable
-!(https://github.com/guptakamit040880/M20_Capstone/blob/c0f4aefdf934f866a0bb815673fce8a763ab80da/img1.png)
+![](img1.png)
 
 ## Limit the data set for a specific route.
+![](img2.png)
 
 ## Modeling and performance
 
